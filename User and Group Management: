@@ -1,0 +1,5 @@
+sudo userdel <username>  # Delete a user
+sudo useradd -m <username>  # Add a user
+sudo passwd <username>  # Set or change the password for a user
+sudo groupadd <group_name>  # Add a new group
+sudo gpasswd -a <username> <group_name>  # Add user to a group
