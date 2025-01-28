@@ -1,0 +1,7 @@
+rm <file_name>   # Remove a file
+sudo rm <file_name>  # Remove a file with superuser privileges
+touch <file_name>  # Create an empty file
+chmod <permissions> <file_name>  # Change file permissions
+chown <user>:<group> <file_name>  # Change file owner and group
+cat <file_name>   # Display contents of a file
+vim <file_name>   # Edit a file with Vim
