@@ -1,0 +1,6 @@
+grep <pattern> <file> # Search for a pattern in a file
+awk '{print $1}' <file>  # Print the first column of a file
+sed 's/<old>/<new>/' <file>  # Search and replace text in a file
+head -n <number> <file>  # Display the first 'n' lines of a file
+tail -n <number> <file>  # Display the last 'n' lines of a file
+wc <file>             # Count lines, words, and characters in a file
