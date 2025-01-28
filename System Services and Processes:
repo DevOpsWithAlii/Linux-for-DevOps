@@ -1,0 +1,7 @@
+systemctl status <service_name>  # Check the status of a service
+sudo systemctl start <service_name>  # Start a service
+sudo systemctl stop <service_name>  # Stop a service
+ps                    # Display current processes
+top                   # Display running processes
+df                    # Display disk space usage
+du                    # Display disk usage of files and directories
