@@ -1,4 +1,4 @@
-# Linux-for-DevOps.
+# Linux-for-DevOps.....
 
 Here’s your cleaned-up list of commands in **Markdown format** with headings for better organization.. Each command is listed only once, and the structure is optimized for readability.
 
